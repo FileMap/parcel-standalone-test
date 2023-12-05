@@ -1,5 +1,5 @@
 {
-  "name": "watcher-test",
+  "name": "parcel-standalone-test",
   "version": "0.0.1",
   "description": "testing various watchers",
   "main": "index.js",
